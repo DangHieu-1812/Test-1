@@ -10,3 +10,4 @@ int main()
     cout << d1 << ' ' << d2;
     return 0;
 }
+
